@@ -5,7 +5,10 @@
   Cards flow through a visual pipeline — Backlog, Plan, In Progress, Test,                                 
   Commit, Done — and autonomous AI agents process each stage in isolated
   git worktrees. No cloud. No telemetry. Your code never leaves your                                       
-  machine.                                                                                                 
+  machine.
+
+  ## Note on closed source
+  Swimcode is currently closed source this repo exists to track issues for the applicaton. While the patents are pending the source will be closed to ensure no issues arise. 
                                                                                                            
   ## How it works                                                                                          
                                                         
