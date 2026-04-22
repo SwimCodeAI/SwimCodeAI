@@ -56,7 +56,7 @@
   ## Contact                                                                                               
    
   - Issues: [open one here](https://github.com/SwimCodeAI/SwimCodeAI/issues)                               
-  - Email: support@swimcode.ai                          
+  - Email: specter@swimcode.ai                          
                                                                                                            
   ---                                                   
                           
