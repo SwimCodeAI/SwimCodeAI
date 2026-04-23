@@ -1,201 +1,283 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+Swim Code End User License Agreement
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Copyright (c) 2026 Swim Code Inc. All rights reserved.
 
-   1. Definitions.
+This End User License Agreement ("Agreement") is a binding legal agreement
+between you ("Licensee", "you") and Swim Code Inc. ("Swim Code", "we", "us"),
+a Delaware corporation, governing your installation and use of the Swim Code
+desktop application, any accompanying documentation, and any updates
+(collectively, the "Software").
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+This Agreement complements, and is supplemented by, the Swim Code Terms of
+Service at https://swimcode.ai/terms and the Swim Code Privacy Policy at
+https://swimcode.ai/privacy, both of which are incorporated by reference. In
+the event of any conflict between this Agreement and the Terms of Service,
+the Terms of Service control.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+1. ACCEPTANCE
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+By downloading, installing, accessing, or using the Software, you agree to be
+bound by this Agreement. If you do not agree, do not install or use the
+Software, and delete any copies in your possession.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+2. LICENSE GRANT
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+Subject to your continuous compliance with this Agreement, Swim Code grants
+you a limited, non-exclusive, non-transferable, non-sublicensable, revocable
+license to download, install, and run the Software for your personal or
+internal business purposes. No other rights are granted by implication,
+estoppel, or otherwise.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+The Software is offered at no cost. There are no subscription fees and no
+paid tiers. Swim Code operates on a bring-your-own-keys model: you supply
+your own third-party AI provider API keys and pay those providers directly
+for any usage you incur. Swim Code may introduce paid plans or features in
+the future on at least thirty (30) days' prior notice, and any such change
+will not affect access to features that were free at the time of the notice.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+3. RESTRICTIONS
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+You will not, and will not permit any third party to:
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+  (a) copy, redistribute, resell, rent, lease, lend, sublicense, host as a
+      service, or otherwise make the Software available to any third party;
+  (b) modify, adapt, translate, or create derivative works of the Software;
+  (c) reverse engineer, decompile, disassemble, deobfuscate, or otherwise
+      attempt to derive the source code, algorithms, or internal structure
+      of the Software, except and only to the extent this restriction is
+      expressly prohibited by applicable law;
+  (d) circumvent, disable, or interfere with any license-verification,
+      integrity-verification, anti-debugging, authentication, or update
+      mechanism of the Software;
+  (e) remove, alter, or obscure any copyright, trademark, or other
+      proprietary notice on or in the Software;
+  (f) use the Software to build or train a product or service that competes
+      with the Software;
+  (g) use the Software in violation of any applicable law or regulation, of
+      the acceptable-use policy of any third-party service you access
+      through the Software, or of the terms of any AI provider whose API
+      keys you configure; or
+  (h) disclose non-public technical details about the Software's internal
+      operation that you discover through your use of it. This restriction
+      does not prevent you from (i) discussing your experience using the
+      Software, including its public features and functionality, (ii)
+      sharing feedback, reviews, or opinions, (iii) disclosing information
+      that is already publicly available, or (iv) making disclosures
+      required by law.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+4. OWNERSHIP
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+The Software is licensed, not sold. Swim Code and its licensors retain all
+right, title, and interest in and to the Software, including all
+intellectual property rights therein. Swim Code's technology is patent
+pending. Except for the limited license expressly granted in Section 2, no
+rights are granted to you in or to the Software, and you may not use the
+Software or knowledge gained from it to file patent applications covering
+functionality similar to the Software or to challenge or design around any
+Swim Code patent or patent application.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+5. UPDATES AND TELEMETRY
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+The Software includes an automatic update mechanism. It periodically checks
+for updates by requesting manifest files from Swim Code's release server;
+these requests carry no personal data and no usage telemetry. Updates are
+never downloaded or installed without your explicit action, and automatic
+update checks can be disabled in Settings.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+The Software contains no analytics, crash reporting, or usage tracking.
+Information about how you use the Software is not transmitted to Swim Code.
+Handling of account authentication and any data transmitted to third-party
+AI providers, source control services, or other integrations you configure
+is governed by the Privacy Policy.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+6. USER CONTENT
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+As between you and Swim Code, you retain all right, title, and interest in
+any source code, prompts, repositories, configurations, or other content you
+supply to or generate with the Software ("User Content"). Swim Code claims
+no ownership of User Content and does not access, use, or store it on Swim
+Code servers; User Content resides locally on your device.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+If you provide feedback, suggestions, or ideas about the Software, you grant
+Swim Code a non-exclusive, worldwide, royalty-free, irrevocable, perpetual
+license to use, modify, and incorporate that feedback without obligation or
+compensation to you.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+7. AI-GENERATED OUTPUT AND AUTOMATED ACTIONS
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+The Software uses AI models operated by third parties to generate code,
+documentation, tests, and other output, and enables AI agents to perform
+automated actions on your behalf. You acknowledge and agree that:
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+  (a) AI-generated output is provided "as is" and may contain errors, bugs,
+      security vulnerabilities, fabricated information, or material that
+      resembles copyrighted or patented third-party work;
+  (b) you are solely responsible for reviewing, testing, and validating all
+      AI-generated output before deploying or distributing it;
+  (c) AI agents may execute shell commands, create and modify files,
+      interact with source control, and take other automated actions with
+      the same permissions as your user account. You are responsible for
+      the consequences of those actions and for maintaining backups;
+  (d) a single work item may fan out across multiple agents and generate a
+      large volume of API requests, and all resulting third-party API
+      charges are your sole responsibility. You should configure spending
+      caps and usage alerts directly with your AI provider.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+8. THIRD-PARTY COMPONENTS
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+The Software includes third-party open-source components licensed under
+their own terms; those licenses prevail over this Agreement with respect to
+the component they cover. A list of such components and their licenses is
+available on written request to specter@swimcode.ai.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+9. TERM AND TERMINATION
 
-   END OF TERMS AND CONDITIONS
+This Agreement is effective until terminated. It terminates automatically
+upon any breach of its terms. Swim Code may also terminate or suspend this
+Agreement and your access to the Software at any time, with or without
+notice, for conduct that Swim Code reasonably believes violates this
+Agreement or is harmful to others. Upon termination you must cease all use
+of the Software and remove all copies from your systems. Your locally stored
+data remains on your device and is your responsibility. Sections 3, 4, 6, 7
+and 10 through 18 survive termination.
 
-   APPENDIX: How to apply the Apache License to your work.
+10. DISCLAIMER OF WARRANTIES
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT. SWIM CODE DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, THAT DEFECTS WILL BE
+CORRECTED, OR THAT AI-GENERATED OUTPUT WILL BE CORRECT, SECURE, OR FREE OF
+VULNERABILITIES, HALLUCINATIONS, OR DEPENDENCIES ON NONEXISTENT PACKAGES.
+YOU ASSUME ALL RISK ARISING FROM YOUR USE OF THE SOFTWARE, INCLUDING RISK
+FROM AI-GENERATED CODE EXECUTED IN YOUR REPOSITORIES, INFRASTRUCTURE, OR
+PRODUCTION ENVIRONMENTS.
 
-   Copyright [yyyy] [name of copyright owner]
+11. LIMITATION OF LIABILITY
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SWIM CODE AND ITS
+OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND LICENSORS WILL NOT BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, BUSINESS OPPORTUNITY,
+OR GOODWILL, ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SOFTWARE,
+WHETHER IN CONTRACT, TORT, OR OTHERWISE, AND WHETHER OR NOT SWIM CODE HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS INCLUDES, WITHOUT
+LIMITATION, DAMAGES ARISING FROM AI-GENERATED OUTPUT, AUTOMATED AGENT
+ACTIONS, THIRD-PARTY API CHARGES, DISK OR STORAGE CONSUMPTION, OR DAMAGE TO
+LOCAL FILES OR REPOSITORIES CAUSED BY AGENT-EXECUTED COMMANDS.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+SWIM CODE'S TOTAL AGGREGATE LIABILITY UNDER OR RELATING TO THIS AGREEMENT
+WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID TO SWIM CODE IN THE
+TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM, OR (B)
+TEN UNITED STATES DOLLARS (USD $10).
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+12. INDEMNIFICATION
+
+You will indemnify, defend, and hold harmless Swim Code and its officers,
+directors, employees, agents, and licensors from and against any claims,
+liabilities, damages, losses, and expenses (including reasonable attorneys'
+fees) arising out of (a) your use of the Software, (b) your breach of this
+Agreement, (c) your violation of any third-party rights (including
+intellectual property rights) or any third-party service terms, or (d) any
+AI-generated output or automated agent action you deploy, distribute, or
+cause to be taken.
+
+13. EXPORT AND SANCTIONS
+
+The Software may be subject to United States export control laws, including
+the Export Administration Regulations and sanctions administered by the
+Office of Foreign Assets Control. You represent that you are not located
+in, under the control of, or a national or resident of any country subject
+to a U.S. Government embargo (including Cuba, Iran, North Korea, Syria,
+and the Crimea, Donetsk, and Luhansk regions), and that you are not on any
+U.S. Government restricted-party list, including the Specially Designated
+Nationals List, the Denied Persons List, or the Entity List. You will
+comply with all applicable export, re-export, and sanctions laws.
+
+14. GOVERNING LAW; DISPUTE RESOLUTION
+
+This Agreement is governed by the laws of the State of Delaware, United
+States, without regard to its conflict-of-laws principles. The United
+Nations Convention on Contracts for the International Sale of Goods does
+not apply.
+
+Before filing any formal proceeding, you agree to attempt to resolve any
+dispute with Swim Code through good-faith negotiation for thirty (30) days
+after written notice of the dispute.
+
+If a dispute cannot be resolved through negotiation, it will be settled by
+binding arbitration administered by the American Arbitration Association
+("AAA") under its Commercial Arbitration Rules, seated in Delaware. The
+arbitrator's award is final and binding and may be entered as a judgment in
+any court of competent jurisdiction. Each party bears its own costs and
+attorneys' fees; filing fees are split equally, except where the AAA rules
+provide otherwise for consumer disputes.
+
+CLASS ACTION WAIVER. Disputes will be resolved only on an individual basis,
+not in a class, consolidated, or representative action. You waive any right
+to participate in a class action lawsuit or class-wide arbitration against
+Swim Code.
+
+OPT-OUT. You may opt out of the binding-arbitration and class-action-waiver
+provisions of this Section by sending written notice to specter@swimcode.ai
+within thirty (30) days of first accepting this Agreement. If you opt out,
+disputes will be resolved in the state or federal courts located in
+Delaware, and the parties consent to the personal jurisdiction of those
+courts.
+
+15. GOVERNMENT END USERS
+
+The Software is "commercial computer software" and "commercial computer
+software documentation" as those terms are used in 48 C.F.R. §12.212 and
+48 C.F.R. §227.7202. If the Software is acquired by or on behalf of any
+agency or instrumentality of the United States Government, the Government
+acknowledges that the Software was developed at private expense and that
+use, duplication, and disclosure are subject to the restrictions set forth
+in this Agreement.
+
+16. BETA FEATURES
+
+Features or builds designated as "Beta," "Preview," "Early Access," or
+similar are provided for evaluation purposes, "as is," with no warranty,
+and may be modified, suspended, or discontinued at any time.
+
+17. FORCE MAJEURE; ELECTRONIC COMMUNICATIONS
+
+Neither party is liable for any failure or delay in performance due to
+causes beyond its reasonable control, including acts of God, natural
+disasters, war, government action, network or service-provider outages, or
+cyberattacks. By using the Software you consent to receive communications
+from Swim Code electronically; electronic communications satisfy any legal
+requirement that such communications be in writing.
+
+18. GENERAL
+
+Assignment. You may not assign or transfer this Agreement or any rights or
+obligations under it without Swim Code's prior written consent, and any
+attempted assignment in violation of this Section is void. Swim Code may
+assign this Agreement without restriction, including in connection with a
+merger, acquisition, corporate reorganization, or sale of assets.
+
+Severability. If any provision of this Agreement is held unenforceable, it
+will be modified to the minimum extent necessary to make it enforceable or,
+failing that, severed; the remaining provisions continue in full force.
+
+Entire Agreement. This Agreement, together with the Terms of Service and
+Privacy Policy incorporated above, is the entire agreement between you and
+Swim Code regarding the Software and supersedes all prior agreements,
+representations, and communications on that subject. No waiver is effective
+unless in writing and signed by Swim Code.
+
+Modifications. Swim Code may update this Agreement from time to time. When
+material changes are made, Swim Code will update the notice date below and
+notify you as described in the Terms of Service. Your continued use of the
+Software after the revised Agreement takes effect constitutes your
+acceptance of the changes.
+
+19. CONTACT
+
+  Swim Code Inc. (Delaware)
+  specter@swimcode.ai
+
+Last updated: April 22, 2026.
